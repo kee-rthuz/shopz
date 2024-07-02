@@ -1,7 +1,7 @@
 Project Overview
 
 Shopsy is an e-commerce website offering a variety of products including men's wear, women's wear, and accessories.
-![shopping_website](shopping_website_screenshot.png)
+![shopping_website](Screenshot%20from%202024-07-02%2012-16-24.png)
 
 
 
